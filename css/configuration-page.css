@@ -1,0 +1,33 @@
+.yappa-settings-wrapper label {
+  display: block;
+}
+
+.yappa-settings-wrapper h1,
+.yappa-settings-wrapper label {
+  margin-bottom: 20px;
+}
+
+#checkboxes-container {
+	display: none;
+}
+
+#put-yappa-comments-here {
+	display: none;
+}
+
+#form-iframe {
+	display: none;
+}
+
+.spinner-container {
+	text-align: center
+}
+
+#spinner {
+	color: #d53a47;
+	font-size: 120px;
+}
+
+.title-register {
+	display: none;
+}
